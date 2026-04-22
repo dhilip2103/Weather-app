@@ -130,7 +130,7 @@ A 5-day forecast section would be a great next feature, using OpenWeatherMap's `
 
 ## 🙌 Author
 
-**Your Name** — [GitHub](https://github.com/dhilip2103) · [LinkedIn](www.linkedin.com/in/dhilip-k-21mar03)
+**Dhilip** — [GitHub](https://github.com/dhilip2103) · [LinkedIn](www.linkedin.com/in/dhilip-k-21mar03)
 
 ---
 
