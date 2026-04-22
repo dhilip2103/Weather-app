@@ -1,0 +1,16 @@
+/* html, body — browser default margin/padding remove pannrom
+   width: 100% — full viewport width
+   min-height: 100vh — full viewport height */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* #root — React app inda div-la render aagum (index.html-la irukkum)
+   Iduvum full size-aa irukkanum, illana .app div stretch aagaadhu */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
