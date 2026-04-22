@@ -11,7 +11,7 @@ A modern, responsive weather application built with **React + Vite** that fetche
 
 ## 🌐 Live Demo
 
-👉 [View Live App](https://your-app-name.vercel.app) <!-- Replace with your Vercel URL -->
+👉 [View Live App]([(https://vanilai-weatherapp.vercel.app/)]) <!-- Replace with your Vercel URL -->
 
 ---
 
@@ -130,7 +130,7 @@ A 5-day forecast section would be a great next feature, using OpenWeatherMap's `
 
 ## 🙌 Author
 
-**Your Name** — [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Your Name** — [GitHub](https://github.com/dhilip2103) · [LinkedIn](www.linkedin.com/in/dhilip-k-21mar03)
 
 ---
 
